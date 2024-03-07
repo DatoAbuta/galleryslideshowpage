@@ -6,9 +6,9 @@ import Main from './pages/Main'
 import Photopage from './pages/Photopage'
 function App() {
   const newData = data
+
+
   console.log(newData)
-
-
   return (
     <>
 
