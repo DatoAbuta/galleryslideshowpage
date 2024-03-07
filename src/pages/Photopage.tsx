@@ -1,7 +1,7 @@
 import { Link, useLocation } from 'react-router-dom';
-import './Info.css'
+import './Photopage.css'
 
-const Info = () => {
+const Photopage = () => {
     const { state } = useLocation();
 
     return (
@@ -38,4 +38,4 @@ const Info = () => {
     );
 }
 
-export default Info;
+export default Photopage;
